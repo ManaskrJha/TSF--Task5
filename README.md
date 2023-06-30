@@ -18,7 +18,8 @@ This repository contains Python code to analyze Indian Premier League (IPL) matc
   - [IPL Finals Analysis](#8-ipl-finals-analysis)
   - [Fours and Sixes Analysis](#9-fours-and-sixes-analysis)
   - [Wickets Analysis](#10-wickets-analysis)
-
+  
+- [Contribution](#contribution)
 ## Introduction
 IPL is one of the most popular and competitive Twenty20 cricket leagues in the world. The dataset provides information on matches played in different IPL seasons, including details like the winner, toss result, player of the match, and more.
 
@@ -62,7 +63,11 @@ This section provides analysis on IPL finals, including the venues, winners, and
 ### 9. Fours and Sixes Analysis
 This section analyzes the number of fours and sixes hit by players and teams in different seasons.
 
+
 ### 10. Wickets Analysis
 This section provides insights into the wickets taken by bowlers in IPL matches.
 
 Feel free to explore the code and visualize the IPL match data!
+
+## Contribution
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
